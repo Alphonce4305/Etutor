@@ -1,0 +1,24 @@
+<!-- System Version: 1.1.0
+
+This is an improved version of V1.0.0
+Old Features
+
+. About us
+. Services
+. Contact us - Form not working
+.Transitions effects
+=======================================
+
+New Features
+
+=======================================
+
+-> ABOUT US
+-> SERVICES
+-> GALLERY 
+-> CONTACT US
+
+- Transition effect is made more adaptive
+- Responsiveness added to take care of Laptops, Tablets, and Mobile
+- Gallery added with more images
+- Images compressed to reduce loading time -->
